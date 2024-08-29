@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Notely_App</name>
+    </assembly>
+    <members>
+        <member name="M:Notely_App.Helpers.EmailValidatorClass.EmailValidatorClass.IsValidEmail(System.String)">
+            <summary>
+            Validates the specified email address.
+            </summary>
+            <param name="email">The email address to validate.</param>
+            <returns><c>true</c> if the email address is valid; otherwise, <c>false</c>.</returns>
+        </member>
+    </members>
+</doc>

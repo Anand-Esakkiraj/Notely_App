@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Anand\\MAUI\\Notely_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{241D429C-94F9-4BC6-A6D4-9D666B594EBD}|Notely_App\\Notely_App.csproj|d:\\anand\\maui\\notely_app\\notely_app\\pages\\loginpage\\loginscreenvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241D429C-94F9-4BC6-A6D4-9D666B594EBD}|Notely_App\\Notely_App.csproj|solutionrelative:notely_app\\pages\\loginpage\\loginscreenvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241D429C-94F9-4BC6-A6D4-9D666B594EBD}|Notely_App\\Notely_App.csproj|d:\\anand\\maui\\notely_app\\notely_app\\pages\\loginpage\\loginscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{241D429C-94F9-4BC6-A6D4-9D666B594EBD}|Notely_App\\Notely_App.csproj|solutionrelative:notely_app\\pages\\loginpage\\loginscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241D429C-94F9-4BC6-A6D4-9D666B594EBD}|Notely_App\\Notely_App.csproj|d:\\anand\\maui\\notely_app\\notely_app\\helpers\\converters\\inversebooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241D429C-94F9-4BC6-A6D4-9D666B594EBD}|Notely_App\\Notely_App.csproj|solutionrelative:notely_app\\helpers\\converters\\inversebooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241D429C-94F9-4BC6-A6D4-9D666B594EBD}|Notely_App\\Notely_App.csproj|d:\\anand\\maui\\notely_app\\notely_app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{241D429C-94F9-4BC6-A6D4-9D666B594EBD}|Notely_App\\Notely_App.csproj|solutionrelative:notely_app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241D429C-94F9-4BC6-A6D4-9D666B594EBD}|Notely_App\\Notely_App.csproj|d:\\anand\\maui\\notely_app\\notely_app\\pages\\loginpage\\loginscreenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241D429C-94F9-4BC6-A6D4-9D666B594EBD}|Notely_App\\Notely_App.csproj|solutionrelative:notely_app\\pages\\loginpage\\loginscreenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241D429C-94F9-4BC6-A6D4-9D666B594EBD}|Notely_App\\Notely_App.csproj|d:\\anand\\maui\\notely_app\\notely_app\\helpers\\baseviewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241D429C-94F9-4BC6-A6D4-9D666B594EBD}|Notely_App\\Notely_App.csproj|solutionrelative:notely_app\\helpers\\baseviewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241D429C-94F9-4BC6-A6D4-9D666B594EBD}|Notely_App\\Notely_App.csproj|d:\\anand\\maui\\notely_app\\notely_app\\pages\\loginpage\\loginscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241D429C-94F9-4BC6-A6D4-9D666B594EBD}|Notely_App\\Notely_App.csproj|solutionrelative:notely_app\\pages\\loginpage\\loginscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Anand\\MAUI\\Notely_App\\Notely_App\\App.xaml",
+              "RelativeDocumentMoniker": "Notely_App\\App.xaml",
+              "ToolTip": "D:\\Anand\\MAUI\\Notely_App\\Notely_App\\App.xaml",
+              "RelativeToolTip": "Notely_App\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T06:40:46.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InverseBooleanConverter.cs",
+              "DocumentMoniker": "D:\\Anand\\MAUI\\Notely_App\\Notely_App\\Helpers\\Converters\\InverseBooleanConverter.cs",
+              "RelativeDocumentMoniker": "Notely_App\\Helpers\\Converters\\InverseBooleanConverter.cs",
+              "ToolTip": "D:\\Anand\\MAUI\\Notely_App\\Notely_App\\Helpers\\Converters\\InverseBooleanConverter.cs",
+              "RelativeToolTip": "Notely_App\\Helpers\\Converters\\InverseBooleanConverter.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADgvxYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:37:43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\Anand\\MAUI\\Notely_App\\Notely_App\\Helpers\\BaseViewModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "Notely_App\\Helpers\\BaseViewModel\\BaseViewModel.cs",
+              "ToolTip": "D:\\Anand\\MAUI\\Notely_App\\Notely_App\\Helpers\\BaseViewModel\\BaseViewModel.cs",
+              "RelativeToolTip": "Notely_App\\Helpers\\BaseViewModel\\BaseViewModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:29:38.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginScreen.xaml.cs",
+              "DocumentMoniker": "D:\\Anand\\MAUI\\Notely_App\\Notely_App\\Pages\\LoginPage\\LoginScreen.xaml.cs",
+              "RelativeDocumentMoniker": "Notely_App\\Pages\\LoginPage\\LoginScreen.xaml.cs",
+              "ToolTip": "D:\\Anand\\MAUI\\Notely_App\\Notely_App\\Pages\\LoginPage\\LoginScreen.xaml.cs",
+              "RelativeToolTip": "Notely_App\\Pages\\LoginPage\\LoginScreen.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIBJwCUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:02:26.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginScreen.xaml",
+              "DocumentMoniker": "D:\\Anand\\MAUI\\Notely_App\\Notely_App\\Pages\\LoginPage\\LoginScreen.xaml",
+              "RelativeDocumentMoniker": "Notely_App\\Pages\\LoginPage\\LoginScreen.xaml",
+              "ToolTip": "D:\\Anand\\MAUI\\Notely_App\\Notely_App\\Pages\\LoginPage\\LoginScreen.xaml",
+              "RelativeToolTip": "Notely_App\\Pages\\LoginPage\\LoginScreen.xaml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-30T20:24:46.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginScreenVM.cs",
+              "DocumentMoniker": "D:\\Anand\\MAUI\\Notely_App\\Notely_App\\Pages\\LoginPage\\LoginScreenVM.cs",
+              "RelativeDocumentMoniker": "Notely_App\\Pages\\LoginPage\\LoginScreenVM.cs",
+              "ToolTip": "D:\\Anand\\MAUI\\Notely_App\\Notely_App\\Pages\\LoginPage\\LoginScreenVM.cs",
+              "RelativeToolTip": "Notely_App\\Pages\\LoginPage\\LoginScreenVM.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:46:10.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginScreenModel.cs",
+              "DocumentMoniker": "D:\\Anand\\MAUI\\Notely_App\\Notely_App\\Pages\\LoginPage\\LoginScreenModel.cs",
+              "RelativeDocumentMoniker": "Notely_App\\Pages\\LoginPage\\LoginScreenModel.cs",
+              "ToolTip": "D:\\Anand\\MAUI\\Notely_App\\Notely_App\\Pages\\LoginPage\\LoginScreenModel.cs",
+              "RelativeToolTip": "Notely_App\\Pages\\LoginPage\\LoginScreenModel.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:45:58.338Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

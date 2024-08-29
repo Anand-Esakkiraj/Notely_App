@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Notely_App.Pages.LoginPage.LoginScreen"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:CustomControls="clr-namespace:Notely_App.CustomControls"
+    xmlns:common="clr-namespace:Notely_App.Helpers.Converters"
+    Title="LoginScreen"
+    BackgroundColor="#252525"
+    HideSoftInputOnTapped="True">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <common:InverseBooleanConverter x:Key="BooleanInverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout Padding="49" VerticalOptions="FillAndExpand">
+        <StackLayout.GestureRecognizers>
+            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
+        </StackLayout.GestureRecognizers>
+
+        <Label
+            Padding="0,102,0,40"
+            FontAttributes="Bold"
+            FontSize="48"
+            HorizontalOptions="CenterAndExpand"
+            Text="Notes"
+            TextColor="White" />
+
+        <Border
+            Padding="8,4"
+            BackgroundColor="#C4C4C4"
+            HeightRequest="65"
+            StrokeShape="RoundRectangle 16">
+            <CustomControls:CustomEntry
+                FontSize="16"
+                Placeholder="Enter Email !"
+                PlaceholderColor="Black"
+                Text="{Binding Emailtext}"
+                TextColor="Black"
+                VerticalOptions="CenterAndExpand" />
+        </Border>
+        <Label
+            Padding="10,8,0,0"
+            FontSize="16"
+            IsVisible="{Binding EmailErrorTextVisibility, Converter={StaticResource BooleanInverter}}"
+            Text="{Binding EmailErrortext}"
+            TextColor="White" />
+        <Border
+            Margin="0,40,0,0"
+            Padding="8,4"
+            BackgroundColor="#C4C4C4"
+            HeightRequest="65"
+            StrokeShape="RoundRectangle 16">
+            <CustomControls:CustomEntry
+                FontSize="16"
+                Placeholder="Enter Password !"
+                PlaceholderColor="Black"
+                TextColor="Black"
+                VerticalOptions="CenterAndExpand" />
+        </Border>
+        <Label
+            Padding="10,8,0,0"
+            FontSize="16"
+            IsVisible="False"
+            Text="Enter valid Password"
+            TextColor="White" />
+        <StackLayout Padding="0,45,0,80">
+            <Border
+                BackgroundColor="#9EFFFF"
+                HeightRequest="65"
+                StrokeShape="RoundRectangle 16"
+                WidthRequest="160">
+                <Border.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding LoginCommand}" NumberOfTapsRequired="1" />
+                </Border.GestureRecognizers>
+                <Label
+                    FontAttributes="Bold"
+                    FontSize="17"
+                    HorizontalOptions="Center"
+                    Text="Login"
+                    TextColor="Black"
+                    VerticalOptions="Center" />
+            </Border>
+
+        </StackLayout>
+        <Label
+            FontSize="24"
+            HorizontalOptions="End"
+            Text="Register!"
+            TextColor="#9EFFFF"
+            VerticalOptions="End" />
+    </StackLayout>
+</ContentPage>
